@@ -12,7 +12,8 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/misakabench/master/misakabench.sh && bash misakabench.sh
+# wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/misakabench/master/misakabench.sh && bash misakabench.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/tpe28/misakabench/master/misakabench.sh && bash misakabench.sh
 ```
 
 ## 更新日志
@@ -27,9 +28,11 @@ Teddysun：https://github.com/teddysun/across
 
 Speedtest.net https://www.speedtest.net/
 
-## 交流群
+## ~~交流群~~ 墓碑
 
-[Telegram](https://t.me/misakanetcn)
+~~[Telegram] (https://t.me/misakanetcn)~~  
+
+[Telegram Channel](https://t.me/misakano)
 
 ## 赞助我们
 
